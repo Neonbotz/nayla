@@ -30,15 +30,15 @@ global.APIKeys = { // Apikey lu di sini
 }
 
 // Sticker Watermark
-global.packname = 'DanzBot'
-global.author = 'DanzBot'
+global.packname = 'Sachi-Botzz え'
+global.author = 'Agungx ン'
 
 global.multiplier = 36 // ini butuh berapa xp buat levelup 
 
 global.wait = '*WAIT SABAR🥴*'
 global.error = '*ERROR BANH MAAP🗿*'
-global.botwm = 'DanzBot' // watermark bot
-global.oname = 'Danz Owner' // nama owner nya
+global.botwm = 'Sachi-Botzz え' // watermark bot
+global.oname = 'Agungx ン' // nama owner nya
 global.thum = 'https://telegra.ph/file/5859353a380d9b67be198.jpg'
 
 let chalk = require('chalk')
