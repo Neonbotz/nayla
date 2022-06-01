@@ -4,11 +4,11 @@ let handler = async m => m.reply(`
 │ > Harga :
 │• 5K / Minggu
 │• 20K / Bulan
-│• 30K / Permanent
+│• 50K / Tahun
 │
 │ > Pembayaran :
-│• DANA : 08818770766
-│• TRI : 089520306297
+│• DANA : -
+│• XL : 087719424487
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['sewa']
