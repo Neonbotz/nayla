@@ -3,7 +3,7 @@ let info = `
 ┏━━°❀❬ *INFO* ❭❀°━━┓
 ┃
 ┃> Bot Recoded By :
-┃• Zevano
+┃• Yt Agungx
 ┃
 ┃> Bot Dibuat Dengan :
 ┃• JavaScript via NodeJS
@@ -16,16 +16,16 @@ let info = `
 ┃• RC047/Kuhong
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *TRI:* [089520306297]
-┣➥ *Dana:* [08818770766]
-┣➥ *Gopay:* [08818770766]
-┣➥ *LinkAja:* [08818770766]
+┣➥ *XL:* [087719424487]
+┣➥ *Dana:* [-]
+┣➥ *Gopay:* [-]
+┣➥ *LinkAja:* [-]
 ┃ 「 *Chat OWNER* 」
-┃ > *INGIN DOANSI ? https://wa.me/628818770766*
+┃ > *INGIN DOANSI ? https://wa.me/6287719424487*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*NAYLABOTZ TERVERIFIKASI*', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*Sachi-Botzzえ TERVERIFIKASI*', 'status@broadcast')
 }
 handler.help = ['info']
 handler.tags = ['info']
