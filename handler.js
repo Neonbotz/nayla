@@ -509,7 +509,7 @@ module.exports = {
                   externalAdReply: {
                     mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
                     title: action === 'add' ? wel : lea,
-                    body: 'DanzBot',
+                    body: 'Sachi-Botzzえ',
                     thumbnail: poi
                   }
                 }}) 
@@ -531,7 +531,7 @@ module.exports = {
                   externalAdReply: {
                     mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
                     title: action === 'promote' ? promote : demote,
-                    body: 'DanzBot',
+                    body: 'Sachi-Botzzえ',
                     thumbnail: omg
                   }
                 }}) 
@@ -572,9 +572,9 @@ ketik *.off delete* untuk mematikan pesan ini
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: 'Maaf fitur ini hanya bisa digunakan oleh *Owner DanzBot*', 
-    owner: 'Maaf fitur ini hanya bisa digunakan oleh *Owner DanzBot*',
-    mods: 'Maaf fitur ini hanya bisa digunakan oleh *Moderator DanzBot*',
+    rowner: 'Maaf fitur ini hanya bisa digunakan oleh *Owner Sachi-Botzzえ*', 
+    owner: 'Maaf fitur ini hanya bisa digunakan oleh *Owner Sachi-Botzzえ*',
+    mods: 'Maaf fitur ini hanya bisa digunakan oleh *Moderator Sachi-Botzzえ*',
     premium: 'Maaf fitur ini hanya bisa digunakan oleh user *Premium*',
     group: 'Maaf fitur ini hanya bisa digunakan di *Group*',
     private: 'Maaf fitur ini hanya bisa digunakan di *Private*',
