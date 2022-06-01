@@ -5,7 +5,7 @@ let handler = async(m, { conn, text }) => {
     if (text > 300) return conn.reply(m.chat, 'Maaf Link Terlalu Panjang, Sepertinya Ini Bukan Link Grup:v', m)
     var nomor = m.sender
     const teks1 = `*[ REQUEST ]*\nNomor : wa.me/${nomor.split("@s.whatsapp.net")[0]}\nPesan : ${text}`
-    conn.sendMessage('628818770766@s.whatsapp.net', teks1, MessageType.text)
+    conn.sendMessage('6287719424487@s.whatsapp.net', teks1, MessageType.text)
     conn.reply(m.chat, '✔️Link Request Anda telah dikirimkan ke Owner\nSilahkan Chat Ke Owner Dan Konfrimasi Pembayaran\n\nNomer Owner :wa.me/628818770766', m)
 }
 handler.help = ['join <link gc>']
