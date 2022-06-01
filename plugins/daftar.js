@@ -40,7 +40,7 @@ let handler = async function (m, { text, usedPrefix }) {
 │ *Kalian ingin unreg*
 ╰━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
 
-*「 NayLaBotz 」*
+*「 Sachi-Botzzえ 」*
 `.trim())
 }
 handler.help = ['daftar', 'reg', 'register'].map(v => v + ' <nama>.<umur>')
