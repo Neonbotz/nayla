@@ -580,7 +580,7 @@ global.dfail = (type, m, conn) => {
     private: 'Maaf fitur ini hanya bisa digunakan di *Private*',
     admin: 'Maaf fitur ini hanya bisa digunakan *Admin*',
     botAdmin: 'Jadikan bot sebagai *Admin* untuk menggunakan fitur ini',
-    unreg: '── 「 DANZBOT REGISTERED😈🔥 」 ──\nHalo Cuy Sebelum Memakai *DanzBot* Register Dulu Ya. Cara Register Tinggal Ketik Dengan Cara *.daftar nama.umur*\nContohnya .daftar DanzBot.18\n\nNote:\nSaya Harap Anda Tidak Meminta Save Pada *DanzBot* Dan Tidak Meminta Save Pada Owner Saya *Danz*',
+    unreg: '── 「 Sachi-Botzzえ REGISTERED🔥 」 ──\nHalo Cuy Sebelum Memakai *Sachi-Botzzえ* Register Dulu Ya. Cara Register Tinggal Ketik Dengan Cara *.daftar nama.umur*\nContohnya .daftar Sachi.28\n\nNote:\nSaya Harap Anda Tidak Meminta Save Pada *Sachi-Botzzえ* Dan Tidak Meminta Save Pada Owner Saya *Agungx え*',
   }[type]
   if (msg) return m.reply(msg)
 }
