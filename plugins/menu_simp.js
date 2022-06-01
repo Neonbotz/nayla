@@ -358,11 +358,11 @@ Im *NayLaBotz* And You Use
 
     externalAdReply: {
 
-                    mediaUrl: 'https://youtu.be/-tKVN2mAKRI',
+                    mediaUrl: 'xnxx.com',
 
-                    title: 'CREATED BY ZEVANO',
+                    title: 'CREATED BY AGUNGิิ ืえ',
 
-                    body: 'NayLa-B0TZ',
+                    body: 'Sachi-Botzzえ',
 
                     thumbnail: await(await fetch(global.thum)).buffer()
 
