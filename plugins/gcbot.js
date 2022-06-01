@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 *LIST GC BOT*
 
 *GROUP 1*
-https://chat.whatsapp.com/JgFOfu182li7kG6dlKcwzD
+https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['gcbot']
 handler.tags = ['info']
